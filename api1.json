@@ -1,0 +1,22 @@
+{
+    "OrderID": 12345,
+    "Address": "Av. Corrientes 1234, Buenos Aires, C1043AAX",
+    "Status": "En camino",
+    "Articles": [
+        {
+            "Name": "Laptop",
+            "Quantity": 1,
+            "Dangerous": false
+        },
+        {
+            "Name": "Battery",
+            "Quantity": 2,
+            "Dangerous": true
+        },
+        {
+            "Name": "Books",
+            "Quantity": 3,
+            "Dangerous": false
+        }
+    ]
+}
